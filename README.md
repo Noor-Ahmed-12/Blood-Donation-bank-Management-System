@@ -1,3 +1,7 @@
+<h2>You can check the complete working of this project on my YouTube Channel video :</h2>
+<p align="center">
+<a href="https://youtu.be/-jGGaTpWYAU" target="_blank"><img src = "https://github.com/Noor-Ahmed-12/Blood-Donation-bank-Management-System/blob/main/blood%20donation%20project%20with%20database.png"></a>
+</p>
 	
   <h1>Blood Donation Bank Management System</h1>
 	<p>This is a web-based Blood Donation Bank Management System project developed using HTML, CSS, JS, PHP, and MySQL.</p>
@@ -34,11 +38,6 @@
 	<li>Click on the "Choose File" button and select the <code>bdbms.sql</code> file from the downloaded project.</li>
 	<li>Click on the "Go" button to import the database.</li>
 </ol>
-
-<h2>You can check the complete working of this project on my YouTube Channel video :</h2>
-<p align="center">
-<a href="https://youtu.be/-jGGaTpWYAU" target="_blank"><img src = "https://github.com/Noor-Ahmed-12/Blood-Donation-bank-Management-System/blob/main/blood%20donation%20project%20with%20database.png"></a>
-</p>
 
 <h2>Credits</h2>
 <p>This project was developed as part of the Web Engineering course at XYZ University by [Your Name].</p>
